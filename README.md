@@ -19,19 +19,19 @@
 ## 🖥️ Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 *Home page showing total compounds stored in the database*
 
 ### Search
-![Search](screenshots/search.png)
+![Search](search.png)
 *Real-time compound search by name, SMILES, or formula*
 
 ### Compound Details
-![Compound Details](screenshots/compound_detail.png)
+![Compound Details](compound_detail.png)
 *Detailed view showing 2D structure, molecular properties, and external database links*
 
 ### Upload New Compound
-![Upload](screenshots/upload.png)
+![Upload](upload.png)
 *Upload any compound by name, SMILES string, or InChIKey — data is fetched automatically*
 
 ---
