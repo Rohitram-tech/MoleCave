@@ -19,7 +19,7 @@
 ## 🖥️ Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 *Home page showing total compounds stored in the database*
 
 ### Search
