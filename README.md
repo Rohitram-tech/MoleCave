@@ -178,7 +178,7 @@ The system queries PubChem first, then ChEMBL, then resolves DrugBank links via 
 
 **Rohit Ram**
 M.Sc. Bioinformatics | Mumbai, India
-[LinkedIn](https://linkedin.com/in/rohitram) • [GitHub](https://github.com/rohitram)
+[LinkedIn](https://www.linkedin.com/in/rohit-ram-92a5013b8/) • [GitHub](https://github.com/Rohitram-tech)
 
 ---
 
